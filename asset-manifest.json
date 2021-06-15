@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/spotify-backup-and-restore/static/js/main.7307fe0f.chunk.js",
+    "main.js.map": "/spotify-backup-and-restore/static/js/main.7307fe0f.chunk.js.map",
+    "runtime-main.js": "/spotify-backup-and-restore/static/js/runtime-main.45fc0ec5.js",
+    "runtime-main.js.map": "/spotify-backup-and-restore/static/js/runtime-main.45fc0ec5.js.map",
+    "static/js/2.9b005d6c.chunk.js": "/spotify-backup-and-restore/static/js/2.9b005d6c.chunk.js",
+    "static/js/2.9b005d6c.chunk.js.map": "/spotify-backup-and-restore/static/js/2.9b005d6c.chunk.js.map",
+    "static/js/3.0ba83a6d.chunk.js": "/spotify-backup-and-restore/static/js/3.0ba83a6d.chunk.js",
+    "static/js/3.0ba83a6d.chunk.js.map": "/spotify-backup-and-restore/static/js/3.0ba83a6d.chunk.js.map",
+    "index.html": "/spotify-backup-and-restore/index.html",
+    "static/js/2.9b005d6c.chunk.js.LICENSE.txt": "/spotify-backup-and-restore/static/js/2.9b005d6c.chunk.js.LICENSE.txt",
+    "static/media/background.0e94f6ff.svg": "/spotify-backup-and-restore/static/media/background.0e94f6ff.svg",
+    "static/media/line.437ec098.svg": "/spotify-backup-and-restore/static/media/line.437ec098.svg",
+    "static/media/trail.3ec63967.svg": "/spotify-backup-and-restore/static/media/trail.3ec63967.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45fc0ec5.js",
+    "static/js/2.9b005d6c.chunk.js",
+    "static/js/main.7307fe0f.chunk.js"
+  ]
+}
