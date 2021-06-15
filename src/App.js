@@ -4,7 +4,6 @@ import Index from './pages/Index/Index';
 import Callback from './pages/Callback/Callback';
 import {GlobalStyle} from "./styles";
 
-
 const App = () => {
     return (
         <Fragment>
