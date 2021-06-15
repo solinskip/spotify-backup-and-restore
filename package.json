@@ -2,7 +2,7 @@
   "homepage": "http://solinskip.github.io/spotify-backup-and-restore",
   "name": "spotify-backup-new",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
     "@testing-library/jest-dom": "^5.11.10",
